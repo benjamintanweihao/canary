@@ -1,7 +1,7 @@
 Canary: A Tweet Sentiment Analyzer
 ==================================
 
-_A canary is a type of animal _sentinel_. That is, it is used to detect risks to humans by prociding some form of warning. The canary has been used to detect poisonous gas in coal mines._
+_A canary is a type of animal sentinel. That is, it is used to detect risks to humans by prociding some form of warning. The canary has been used to detect poisonous gas in coal mines._
 
 ![](http://i.imgur.com/YBiNVZT.jpg)
 
