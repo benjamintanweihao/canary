@@ -1,0 +1,2 @@
+defmodule Canary do
+end
