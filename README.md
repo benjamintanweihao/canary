@@ -7,7 +7,7 @@ _A canary is a type of animal sentinel. That is, it is used to detect risks to h
 
 (Photo by [Ian White](https://www.flickr.com/photos/ian_white/))
 
-Since Twitter is represented by a bird, and the application is for _senti_ment analysis, I thought that Canary would be a befitting name.
+Since Twitter is represented by a bird, and the application is for _senti_-ment analysis, I thought that Canary would be a befitting name.
 
 ## Running the App
 
